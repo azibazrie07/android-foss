@@ -395,6 +395,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Briar**](https://code.briarproject.org/briar/briar) <sup>**[[F-Droid](https://f-droid.org/app/org.briarproject.briar.android)]**</sup>
 * [**Cheogram**](https://git.singpolyma.net/cheogram-android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.cheogram.android)]**</sup>
 * [**Conversations**](https://github.com/siacs/Conversations) <sup>**[[F-Droid](https://f-droid.org/app/eu.siacs.conversations)]**</sup>
+* [**Delta Chat**](https://github.com/deltachat/deltachat-android) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.b44t.messenger/)]**</sup>
 * [**Element**](https://github.com/vector-im/element-android) <sup>**[[F-Droid](https://f-droid.org/app/im.vector.app)]**</sup>
 * [**Jami**](https://git.jami.net/savoirfairelinux/jami-client-android) <sup>**[[F-Droid](https://f-droid.org/app/cx.ring)]**</sup>
 * [**Jitsi Meet**](https://github.com/jitsi/jitsi-meet) <sup>**[[F-Droid](https://f-droid.org/app/org.jitsi.meet)]**</sup>
