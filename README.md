@@ -163,6 +163,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Calendar
 
 * [**Etar**](https://github.com/Etar-Group/Etar-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/ws.xsoh.etar)]**</sup>
+* [**My Brain**](https://github.com/mhss1/MyBrain) <sup>**[[F-Droid](https://f-droid.org/packages/com.mhss.app.mybrain/)]**</sup>
 * [**Persian Calendar**](https://github.com/persian-calendar/persian-calendar) <sup>**[[F-Droid](https://f-droid.org/packages/com.byagowi.persiancalendar/)]**<sup>
 * [**Simple Calendar**](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calendar.pro)]**</sup>
 
@@ -490,6 +491,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/app/net.gsantner.markor)]**</sup>
 * [**Material Notes**](https://github.com/BijoySingh/Material-Notes-Android-App) <sup>**[[F-Droid](https://f-droid.org/app/com.bijoysingh.quicknote)]**</sup>
 * [**Mavinote**](https://github.com/bwqr/mavinote) <sup>**[[F-Droid](https://f-droid.org/app/com.bwqr.mavinote)]**</sup>
+* [**My Brain**](https://github.com/mhss1/MyBrain) <sup>**[[F-Droid](https://f-droid.org/packages/com.mhss.app.mybrain/)]**</sup>
 * [**neutriNote**](https://github.com/appml/neutrinote) <sup>**[[F-Droid](https://f-droid.org/app/com.appmindlab.nano)]**</sup>
 * [**Notally**](https://github.com/OmGodse/Notally) <sup>**[[F-Droid](https://f-droid.org/app/com.omgodse.notally)]**</sup>
 * [**NoteCrypt**](https://github.com/RyuzakiKK/NoteCrypt) <sup>**[[F-Droid](https://f-droid.org/app/com.notecryptpro)]**</sup>
@@ -630,6 +632,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**1List**](https://github.com/lolo-io/OneList) <sup>**[[F-Droid](https://f-droid.org/app/com.lolo.io.onelist)]**</sup>
 * [**Everyday Tasks**](https://github.com/jenspfahl/EverydayTasks) <sup>**[[F-Droid](https://f-droid.org/app/de.jepfa.personaltasklogger)]**</sup>
+* [**My Brain**](https://github.com/mhss1/MyBrain) <sup>**[[F-Droid](https://f-droid.org/packages/com.mhss.app.mybrain/)]**</sup>
 * [**OpenTasks**](https://github.com/dmfs/opentasks) <sup>**[[F-Droid](https://f-droid.org/app/org.dmfs.tasks)]**</sup>
 * [**Orgzly**](https://github.com/orgzly/orgzly-android) <sup>**[[F-Droid](https://f-droid.org/app/com.orgzly)]**</sup>
 * [**Tasks.org**](https://github.com/tasks/tasks) <sup>**[[F-Droid](https://f-droid.org/app/org.tasks)]**</sup>
