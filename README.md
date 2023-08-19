@@ -101,6 +101,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Appteka**](https://github.com/solkin/appteka-android)
 * [**IzzyOnDroid**](https://gitlab.com/sunilpaulmathew/izzyondroid) <sup>**[[F-Droid](https://f-droid.org/app/in.sunilpaulmathew.izzyondroid)]**</sup>
 * [**NetHunter Store**](https://gitlab.com/kalilinux/nethunter/store/nethunter-store-client)
+* [**Obtainium**](https://github.com/ImranR98/Obtainium)
 * [**/r/Android App store**](https://github.com/d4rken-org/reddit-android-appstore) <sup>**[[F-Droid](https://f-droid.org/en/packages/subreddit.android.appstore)]**<sup>
 
 ------------------------
