@@ -158,7 +158,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Calculator
 
-* [**ArityCalc**](https://github.com/woheller69/Arity) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.arity)]**</sup>
+* [**Arity**](https://github.com/woheller69/Arity) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.arity)]**</sup>
+* [**yetCalc**](https://github.com/boredcodebyk/mintcalc) <sup>**[[F-Droid](https://f-droid.org/en/packages/bored.codebyk.mintcalc/)]**</sup>
 * [**OpenCalc**](https://github.com/Darkempire78/OpenCalc) <sup>**[[F-Droid](https://f-droid.org/app/com.darkempire78.opencalculator)]**</sup>
 * [**Simple Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calculator)]**</sup>
 * [**unitto**](https://github.com/sadellie/unitto) <sup>**[[F-Droid](https://f-droid.org/app/com.sadellie.unitto)]**</sup>
@@ -190,7 +191,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Clock & Time
 
 * [**Clock**](https://github.com/qw123wh/new-clock-fdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.best.deskclock)]**</sup>
-* [**Clock You**](https://github.com/Bnyro/ClockYou)
+* [**Clock You**](https://github.com/Bnyro/ClockYou)<sup>**[[F-Droid](https://f-droid.org/packages/com.bnyro.clock)]**</sup>
 * [**Simple Alarm Clock**](https://github.com/yuriykulikov/AlarmClock) <sup>**[[F-Droid](https://f-droid.org/app/com.better.alarm)]**</sup>
 * [**Simple Clock**](https://github.com/SimpleMobileTools/Simple-Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.clock)]**</sup>
 
